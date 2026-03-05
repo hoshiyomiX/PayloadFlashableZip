@@ -1,0 +1,6 @@
+# PayloadFlashableZip - Minimal updater-script
+# Modern recoveries auto-detect payload.bin and use update_engine_sideload
+#
+# This file is intentionally minimal. Recovery ignores it when payload.bin is present.
+
+ui_print("Installing OTA package...");

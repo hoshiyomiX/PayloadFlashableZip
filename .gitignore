@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# User input files
+payload.bin
+payload_properties.txt
+
+# Build outputs
+output/
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+temp/

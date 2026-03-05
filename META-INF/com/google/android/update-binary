@@ -1,0 +1,9 @@
+#!/sbin/sh
+#
+# PayloadFlashableZip - Minimal update-binary
+# Modern recoveries auto-detect payload.bin and use update_engine_sideload
+#
+# This file is intentionally minimal. Recovery ignores it when payload.bin is present.
+#
+
+exit 0
